@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Вега",
+        "constellation": "Лира",
+        "is_visible": true,
+        "radius": "2,818"
+    },
+    {
+        "id": 2,
+        "name": "Альтаир",
+        "constellation": "Орёл",
+        "is_visible": true,
+        "radius": "1,7"
+    },
+    {
+        "id": 3,
+        "name": "Альдебаран",
+        "constellation": "Телец",
+        "is_visible": true,
+        "radius": "44"
+    },
+    {
+        "id": 4,
+        "name": "Процион",
+        "constellation": "Малый Пёс",
+        "is_visible": true,
+        "radius": "1,86"
+    },
+    {
+        "id": 5,
+        "name": "Сириус",
+        "constellation": "Большой Пёс",
+        "is_visible": true,
+        "radius": "1,7"
+    }
+]
