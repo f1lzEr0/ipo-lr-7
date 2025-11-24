@@ -1,5 +1,6 @@
 #Kisel Artyom
 import json
+
 file1 = open("dump.json","r", encoding = "utf-8")
 not_found = False
 dump = json.load(file1)
